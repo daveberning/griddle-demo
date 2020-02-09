@@ -1,0 +1,56 @@
+body {
+  background: #fff;
+  font-size: 16px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 18rem;
+  width: 100%;
+  height: auto;
+  padding: 3rem 1.5rem;
+}
+
+.large {
+  max-width: 37.5rem;
+  width: 100%;
+}
+
+div {
+  align-self: stretch;
+  justify-content: center;
+}
+
+.is-grid div:first-child img {
+  max-width: 300px;
+}
+
+/* Backgrounds */
+.atlanta { background: #80000A; }
+.austin { background: #00B140; }
+.chicago { background: #C2002F; }
+.cincinnati { background: #E05D33; }
+.colorado { background: #862634; }
+.columbus { background: #FFF200; }
+.dallas { background: #BF203D; }
+.dc { background: #161616; }
+.houston { background: #EF742F; }
+.lafc { background: #111720; }
+.la-galaxy { background: #0063A7; }
+.miami { background: #212322; }
+.minnesota { background: #9BCDE4; }
+.montreal { background: #00529B; }
+.nashville { background: #0F1145; }
+.new-england { background: #10477B; }
+.nyfc { background: #5790C5; }
+.ny-redbulls { background: #FFD300; }
+.orlando { background: #612B9B; }
+.philadelphia { background: #001B2D; }
+.portland { background: #004812; }
+.salt-lake { background: #022B52; }
+.san-jose { background: #0D4C92; }
+.seattle { background: #539636; }
+.sporting-kc { background: #91B0D5; }
+.toronto { background: #AB1E2D; }
+.vancouver { background: #94BDE4; }
